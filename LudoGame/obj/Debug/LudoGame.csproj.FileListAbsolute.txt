@@ -1,0 +1,14 @@
+C:\Users\Scrollnozzle\Google Drive\Hoved1\Programming\ObjectOriProgram.LudoGame\LudoGame\obj\Debug\LudoGame.csprojResolveAssemblyReference.cache
+C:\Users\Scrollnozzle\Google Drive\Hoved1\Programming\ObjectOriProgram.LudoGame\LudoGame\obj\Debug\LudoGame.csproj.CoreCompileInputs.cache
+C:\Users\Scrollnozzle\Google Drive\Hoved1\Programming\ObjectOriProgram.LudoGame\LudoGame\bin\Debug\LudoGame.exe.config
+C:\Users\Scrollnozzle\Google Drive\Hoved1\Programming\ObjectOriProgram.LudoGame\LudoGame\bin\Debug\LudoGame.exe
+C:\Users\Scrollnozzle\Google Drive\Hoved1\Programming\ObjectOriProgram.LudoGame\LudoGame\bin\Debug\LudoGame.pdb
+C:\Users\Scrollnozzle\Google Drive\Hoved1\Programming\ObjectOriProgram.LudoGame\LudoGame\obj\Debug\LudoGame.exe
+C:\Users\Scrollnozzle\Google Drive\Hoved1\Programming\ObjectOriProgram.LudoGame\LudoGame\obj\Debug\LudoGame.pdb
+C:\Users\Scrollnozzle\Google Drive\Hoved1\Hoved1\Programming\ObjectOriProgram.LudoGame\LudoGame\obj\Debug\LudoGame.csprojResolveAssemblyReference.cache
+C:\Users\Scrollnozzle\Google Drive\Hoved1\Hoved1\Programming\ObjectOriProgram.LudoGame\LudoGame\obj\Debug\LudoGame.csproj.CoreCompileInputs.cache
+C:\Users\Scrollnozzle\Google Drive\Hoved1\Hoved1\Programming\ObjectOriProgram.LudoGame\LudoGame\obj\Debug\LudoGame.exe
+C:\Users\Scrollnozzle\Google Drive\Hoved1\Hoved1\Programming\ObjectOriProgram.LudoGame\LudoGame\obj\Debug\LudoGame.pdb
+C:\Users\Scrollnozzle\Google Drive\Hoved1\Hoved1\Programming\ObjectOriProgram.LudoGame\LudoGame\bin\Debug\LudoGame.exe.config
+C:\Users\Scrollnozzle\Google Drive\Hoved1\Hoved1\Programming\ObjectOriProgram.LudoGame\LudoGame\bin\Debug\LudoGame.exe
+C:\Users\Scrollnozzle\Google Drive\Hoved1\Hoved1\Programming\ObjectOriProgram.LudoGame\LudoGame\bin\Debug\LudoGame.pdb
