@@ -2,4 +2,4 @@
 
 Staus: Work in progress. 
 
-Will be looking to change everything - Folders, UML Diagram, Sequence Diagram and code etc.
+Everything so far have been a "learing" progress. Will look to change the entire project and make it look more "professinal" over time - clean code, UML Diagrams etc. 
